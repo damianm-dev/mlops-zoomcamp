@@ -176,3 +176,8 @@ cython_debug/
 
 data
 models
+02-experiment-tracking/data
+02-experiment-tracking/mlruns
+02-experiment-tracking/models
+02-experiment-tracking/artifacts
+02-experiment-tracking/mlflow.db
