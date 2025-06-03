@@ -181,3 +181,9 @@ models
 02-experiment-tracking/models
 02-experiment-tracking/artifacts
 02-experiment-tracking/mlflow.db
+03-orchestration/mlflow.db
+03-orchestration/config/airflow.cfg
+03-orchestration/logs/*
+03-orchestration/data/*
+03-orchestration/mlflow_data
+
