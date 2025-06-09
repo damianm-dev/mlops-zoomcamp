@@ -187,3 +187,4 @@ models
 03-orchestration/data/*
 03-orchestration/mlflow_data
 
+04-deployment/output/yellow/2023-03.parquet
